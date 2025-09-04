@@ -1,0 +1,31 @@
+{
+    "doctores": {
+        "id": [],
+        "nombres": [],
+        "apellidos": [],
+        "tratamientos": [],
+        "Usuario": [],
+        "Contrase\u00f1a": []
+    },
+    "turnos": {
+        "nombres": [],
+        "apellidos": [],
+        "numeros_socios": [],
+        "horarios": [],
+        "tratamientos": [],
+        "doctor_asignado": []
+    },
+    "recepcion": {
+        "nombres_recepcion": [],
+        "Contrase\u00f1a_recepcion": [],
+        "doctor": [],
+        "turnos": []
+    },
+    "paciente": {
+        "Usuario_socio": [],
+        "Contrase\u00f1a_socio": [],
+        "nombre": [],
+        "turnos": [],
+        "ids_socio": []
+    }
+}
